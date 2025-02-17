@@ -1,6 +1,6 @@
 # Quiz-Application-with-Timer
 
-https://itsabhishek01.github.io/Quiz-Application-with-Timer/
+https://itsYuvraj01.github.io/Quiz-Application-with-Timer/
 
 ![Screenshot (14)](https://user-images.githubusercontent.com/81861900/205207768-c00117c1-b69c-445a-be4f-aa1a60a922c8.png)
 ![Screenshot (15)](https://user-images.githubusercontent.com/81861900/205207775-b72e987d-ea0e-4e66-8a6f-655778ccb37d.png)
